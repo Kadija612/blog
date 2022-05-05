@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>My Blog</title>
+    <link>https://kadija.netlify.app/</link>
+    <atom:link href="https://kadija.netlify.app/index.xml" rel="self" type="application/rss+xml"/>
+    <description>This is my first blog, where I would write about East African Immigrants in America
+</description>
+    <generator>Distill</generator>
+    <lastBuildDate>Thu, 05 May 2022 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Systematic Theory of Change</title>
+      <dc:creator>Kadija Mussa</dc:creator>
+      <link>https://kadija.netlify.app/posts/2022-05-05-systematic-theory-of-change</link>
+      <description>Systemic understanding of problems requires that the therapist discern between patterns of interaction and have a succinct problem definition by using circular questioning and genogram as a tool for assessment and intervention. By using genograms, we see the current patterns of the individual and familial and generational patterns. Furthermore, the therapist can use the genogram to inform intervention. Once an interactional pattern is identified, the therapist can intervene in a way that will make a difference.This blog attempts to outline paradoxical intervention and systemically informed diagnosis of clients. It also showcases the difference that makes a difference in family therapy.</description>
+      <guid>https://kadija.netlify.app/posts/2022-05-05-systematic-theory-of-change</guid>
+      <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Welcome to My Blog</title>
+      <dc:creator>Kadija Mussa</dc:creator>
+      <link>https://kadija.netlify.app/posts/welcome</link>
+      <description>Welcome to my new blog. I hope you enjoy 
+reading what I have to say about Couples and Family Therapy!</description>
+      <guid>https://kadija.netlify.app/posts/welcome</guid>
+      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
